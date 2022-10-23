@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy%20Bubbles&display=swap');
+
+.nameList, .nameList a{
+    color: darkgreen;
+    font-family: 'Fuzzy Bubbles';
+}
